@@ -1,3 +1,3 @@
 #! /bin/bash
-print "Hello"
-print "The date is," `date`
+echo "Hello"
+echo "The date is," `date`
